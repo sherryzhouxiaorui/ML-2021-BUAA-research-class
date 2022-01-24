@@ -1,2 +1,2 @@
 # ML-2021-BUAA-research-class
- machine study by skilearn & pytorch
+ machine study by sklearn & pytorch
